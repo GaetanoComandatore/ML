@@ -13,7 +13,7 @@ This repository contains machine learning exercises and personal experiments dev
 
 ##  Execute in Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GaetanoComandatore/ML/tree/main/notebooks)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GaetanoComandatore/ML/blob/main/notebooks)
 
 1. Click the button above to open the repository in Colab  
 2. Use the file browser on the left to select a notebook  
