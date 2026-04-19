@@ -22,7 +22,7 @@ This repository contains machine learning exercises and personal experiments dev
 
 - Notebooks are designed to run in Google Colab  
 - No local setup is required  
-- Some notebooks may require installing dependencies via `!pip install`  
+- Some notebooks may require installing dependencies via `%pip install`  
 
 ---
 
