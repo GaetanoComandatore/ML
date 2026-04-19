@@ -4,14 +4,14 @@ This repository contains machine learning exercises and personal experiments dev
 
 ---
 
-## 📁 Structure
+## Structure
 
 - `notebooks/ex01_*` → exercises from the professor  
 - `notebooks/exAA_*` → personal experiments and additional work  
 
 ---
 
-## 🚀 Run in Google Colab
+## Run in Google Colab
 
 Click the badge below to open the main notebook directly in Colab:
 
@@ -19,7 +19,7 @@ Click the badge below to open the main notebook directly in Colab:
 
 ---
 
-## ⚙️ Notes
+## Notes
 
 - Notebooks are designed to run in Google Colab
 - No local setup is required
@@ -27,7 +27,7 @@ Click the badge below to open the main notebook directly in Colab:
 
 ---
 
-## 📌 Student
+## Student
 
 Gaetano Comandatore
 
