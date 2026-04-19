@@ -11,24 +11,23 @@ This repository contains machine learning exercises and personal experiments dev
 
 ---
 
-## Run in Google Colab
+## Browse notebooks
 
-Click the badge below to open the main notebook directly in Colab:
+[![Browse Notebooks](https://img.shields.io/badge/Browse-Notebooks-blue)](https://github.com/GaetanoComandatore/ML/tree/main/notebooks)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GaetanoComandatore/ML/blob/main/notebooks/exAA/Classification.ipynb)
+Open the repository, choose a notebook, then run it in Google Colab.
 
 ---
 
 ## Notes
 
-- Notebooks are designed to run in Google Colab
-- No local setup is required
-- Some notebooks may require installing additional libraries at runtime with !pip install ...
+- Notebooks are designed to run in Google Colab  
+- No local setup is required  
+- Some notebooks may require installing dependencies via `!pip install`  
 
 ---
 
-## Student
+## Author
 
-Gaetano Comandatore
-
-matr: 1090952
+Gaetano Comandatore  
+Matr. 1090952
