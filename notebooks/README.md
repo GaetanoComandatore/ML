@@ -29,5 +29,6 @@ Click the badge below to open the main notebook directly in Colab:
 
 ## 📌 Student
 
-Gaetano Comandatore <br>
+Gaetano Comandatore
+
 mat 1090952
