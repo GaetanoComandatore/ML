@@ -13,7 +13,7 @@ This repository contains machine learning exercises and personal experiments dev
 
 ##  Execute in Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GaetanoComandatore/ML/blob/main/notebooks/exAA/Classification.ipynb)
+[![Open Classification.ipynb in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GaetanoComandatore/ML/blob/main/notebooks/exAA/Classification.ipynb)
 
 
 ---
