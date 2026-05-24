@@ -1,0 +1,36 @@
+# Ambienti virtuali
+venv/
+.env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Datasets (se li scarichi)
+data/
+BE/
+cache/
+checkpoints/
+.ipynb_checkpoints/
+results/
+log_dir/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output / export (se li rigeneri)
+*.pdf
+*.html
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
